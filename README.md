@@ -1,6 +1,6 @@
-Voici un exemple de fichier README pour votre programme Pixel Revealer sur GitHub :
 
----
+
+
 
 # Pixel Revealer
 
